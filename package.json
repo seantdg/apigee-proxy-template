@@ -1,0 +1,9 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "devDependencies": {
+    "apickli": "^1.0.0",
+    "cucumber": "^0.5.3",
+    "prettyjson": "^1.1.3"
+  }
+}

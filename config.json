@@ -1,0 +1,38 @@
+{
+	"configurations": [{
+		"name": "dev",
+		"policies": [],
+		"proxies": [],
+		"targets": [{
+			"name": "default.xml",
+			"tokens": [{
+				"value": "http://httpbin.org/",
+				"xpath": "/TargetEndpoint/HTTPTargetConnection/URL"
+			}]
+		}]
+	},
+	{
+		"name": "test",
+		"policies": [],
+		"proxies": [],
+		"targets": [{
+			"name": "default.xml",
+			"tokens": [{
+				"value": "http://httpbin.org/",
+				"xpath": "/TargetEndpoint/HTTPTargetConnection/URL"
+			}]
+		}]
+	},
+	{
+		"name": "prod",
+		"policies": [],
+		"proxies": [],
+		"targets": [{
+			"name": "default.xml",
+			"tokens": [{
+				"value": "http://httpbin.org/",
+				"xpath": "/TargetEndpoint/HTTPTargetConnection/URL"
+			}]
+		}]
+	}]
+}
