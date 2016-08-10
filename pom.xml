@@ -3,9 +3,9 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>apigee</groupId>
-	<artifactId>example-api</artifactId>
+	<artifactId>example-sean-api</artifactId>
 	<version>-</version>
-	<name>example-api</name>
+	<name>example-sean-api</name>
 	<packaging>pom</packaging>
 
 	<pluginRepositories>
