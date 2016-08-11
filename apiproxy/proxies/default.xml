@@ -14,7 +14,7 @@
         <TargetEndpoint>default</TargetEndpoint>
     </RouteRule>
     <HTTPProxyConnection>
-        <BasePath>/v1/example-sean</BasePath>
+        <BasePath>/v1/example</BasePath>
         <VirtualHost>secure</VirtualHost>
     </HTTPProxyConnection>
 </ProxyEndpoint>
